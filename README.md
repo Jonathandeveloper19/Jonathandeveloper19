@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700">
+</p>
+
+---
+
 ## Who am I? 😎
 ```python
 class WhoAmI:
