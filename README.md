@@ -25,3 +25,33 @@ class WhoAmI:
             "Finish my personal projects",
         ]
 ```
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,go,js,html,css,docker,postgres,git,linux,vscode" />
+</p>
+
+---
+
+# 🤖 Artificial Intelligence
+
+💡 Interested in:
+
+- Machine Learning
+- Deep Learning
+- AI Product Development
+- Data Science
+- Automation
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
