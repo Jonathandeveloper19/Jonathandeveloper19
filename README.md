@@ -30,20 +30,8 @@ class WhoAmI:
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,js,html,css,docker,postgres,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=ruby,rails,python,php,js,jquery,flutter,bootstrap,html,css,docker,mysql,postgres,git,linux,vscode,aws" />
 </p>
-
----
-
-# 🤖 Artificial Intelligence
-
-💡 Interested in:
-
-- Machine Learning
-- Deep Learning
-- AI Product Development
-- Data Science
-- Automation
 
 ---
 
