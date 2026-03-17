@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="100">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Jonathan+Gomez;Computer+Engineer;Artificial+Intelligence+Specialist;Ruby+%7C+Python+%7C+Rails+Developer;Always+learning+new+technologies" />
 </p>
 
 ---
