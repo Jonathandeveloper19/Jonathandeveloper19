@@ -27,7 +27,24 @@ class WhoAmI:
 ```
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
+
+**Programming languages:**  
+  Ruby • Python • PHP • JavaScript • HTML • CSS
+
+**Frameworks & Libraries:**  
+  Rails • jQuery • Flutter • Bootstrap
+
+**DevOps & Cloud:**  
+  Docker • AWS • Linux
+
+**Databases:**  
+  MySQL • PostgreSQL
+
+**Tools & Environment:**  
+  Git • VS Code
+
+---
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ruby,rails,python,php,js,jquery,flutter,bootstrap,html,css,docker,mysql,postgres,git,linux,vscode,aws" />
