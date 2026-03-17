@@ -1,16 +1,27 @@
-## Hi there 👋
+## Who am I? 😎
+```python
+class WhoAmI:
+    def __init__(self):
+        self.user = "Jonathan Gomez"
+        self.current_edu = "Computer Engineer"
+        self.currently_learning = "Graduate student specializing in Artificial Intelligence"
+        self.fun_fact = "I love to travel"
+        self.hobbies = [
+            "Travel"
+            "Music",
+            "Sports",
+            "Read",
+            "Documentaries"
+        ]
 
-<!--
-**Jonathandeveloper19/Jonathandeveloper19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def get_city(self):
+        return "Medellín, Colombia"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def ambitions(self):
+        return [
+            "Become an AI Engineer",
+            "Build AI-powered products",
+            "Contribute to open source",
+            "Finish my personal projects",
+        ]
+```
